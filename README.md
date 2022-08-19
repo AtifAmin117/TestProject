@@ -9,7 +9,7 @@ Main elements of the screen:
 - Interactive serving calculator.
 - List of ingredients.
 - Custom buttons.
-- List of images.
+- List of image.
 
 ### Preview
 
